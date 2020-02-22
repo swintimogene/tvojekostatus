@@ -1,0 +1,29 @@
+<wpml-config>
+    <admin-texts>
+        <key name="fortune_theme_options">
+            <!-- Service Section -->
+            <key name="service_heading"/>
+            <key name="service_title_1"/>
+            <key name="service_text_1"/>
+            <key name="service_title_2"/>
+            <key name="service_text_2"/>
+            <key name="service_title_3"/>
+            <key name="service_text_3"/>
+            <!-- Copyright Section -->
+            <key name="footer_copyright"/>
+            <key name="developed_by_text"/>
+            <key name="developed_by_link_text"/>
+            <!-- Blog Section -->
+            <key name="blog_title"/>
+            <key name="blog_desc"/>
+            <!-- Footer Call-Out Section -->
+            <key name="callout_title"/>
+            <key name="callout_btn_text"/>
+            <!-- Header Contact Section -->
+            <key name="contact_email"/>
+            <key name="home_blog_title"/>
+            <key name="related_post_text"/>
+            <key name="about_author_text"/>
+        </key>
+    </admin-texts>
+</wpml-config>

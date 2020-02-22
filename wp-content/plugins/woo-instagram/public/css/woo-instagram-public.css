@@ -1,0 +1,22 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+li.product.instagram {
+   margin: 0 7px 7px 0px !important;
+    width: 150px !important;
+    height: 150px !important;
+}
+li.product.instagram img {
+  margin: 0 0 7px 0 !important;
+}
+.products .instagram{
+    margin-right: 6px !important;
+}
+.products .instagram a img:hover {
+    opacity: 0.8;
+}
+h1.woo_insta_lable {
+    font-size: 38px;
+}

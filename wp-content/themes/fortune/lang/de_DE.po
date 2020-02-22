@@ -1,0 +1,1050 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fortune\n"
+"POT-Creation-Date: 2016-11-10 18:56+0530\n"
+"PO-Revision-Date: 2019-04-30 15:11+0200\n"
+"Language-Team: WebHunt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: css\n"
+"X-Poedit-SearchPathExcluded-2: images\n"
+"X-Poedit-SearchPathExcluded-3: lang\n"
+
+#: 404.php:6
+msgid "404"
+msgstr ""
+
+#: blog-content.php:20 home-blog.php:48 single.php:35
+msgid "No Comments"
+msgstr ""
+
+#: blog-content.php:20 home-blog.php:48 single.php:35
+msgid "1 Comment"
+msgstr ""
+
+#: blog-content.php:20 home-blog.php:48 single.php:35
+msgid "% Comments"
+msgstr ""
+
+#: blog-content.php:22 single.php:37
+msgid "in "
+msgstr "Kategorien"
+
+#: blog-content.php:24
+msgid "Tags  "
+msgstr ""
+
+#: blog-content.php:26 single.php:39
+msgid "by"
+msgstr ""
+
+#: comments.php:16 comments.php:32
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:19 comments.php:35
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:22 comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:50
+msgid "Name"
+msgstr ""
+
+#: comments.php:52
+msgid "Email"
+msgstr ""
+
+#: comments.php:53
+msgid "Website"
+msgstr ""
+
+#: comments.php:63
+msgid "Submit Message"
+msgstr ""
+
+#: comments.php:64
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:65
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:68
+msgid "Comment"
+msgstr ""
+
+#: customizer-extra.php:12
+msgid "Header Top Bar Background Color"
+msgstr ""
+
+#: customizer-extra.php:13
+msgid "Change Top bar Background Color"
+msgstr ""
+
+#: customizer-extra.php:30
+msgid "Header Top Bar Color"
+msgstr ""
+
+#: customizer-extra.php:31
+msgid "Change Top bar Font Color"
+msgstr ""
+
+#: customizer-extra.php:47
+msgid "Header Background Color"
+msgstr ""
+
+#: customizer-extra.php:48
+msgid "Change Header Background Color"
+msgstr ""
+
+#: customizer-extra.php:64
+msgid "Slider Content Margin Right"
+msgstr ""
+
+#: customizer-extra.php:79
+msgid "Slider Animation Effects"
+msgstr ""
+
+#: customizer-extra.php:80
+msgid "Click here to see how each easing effects works."
+msgstr ""
+
+#: customizer-extra.php:166
+msgid "General Options"
+msgstr ""
+
+#: customizer-extra.php:167
+msgid "Here you can change basic settings of your site"
+msgstr ""
+
+#: customizer-extra.php:175
+msgid "Upload logo image"
+msgstr ""
+
+#: customizer-extra.php:183
+msgid "Image Logo Width"
+msgstr ""
+
+#: customizer-extra.php:206
+msgid "Fixed Header"
+msgstr ""
+
+#: customizer-extra.php:207
+msgid "Switch between fixed and static header"
+msgstr ""
+
+#: customizer-extra.php:216
+msgid "Show/Hide Topbar"
+msgstr ""
+
+#: customizer-extra.php:225
+msgid "Topbar Color Styling"
+msgstr ""
+
+#: customizer-extra.php:233
+msgid "Site Layout"
+msgstr ""
+
+#: customizer-extra.php:234
+msgid "Change your site layout to full width or boxed size."
+msgstr ""
+
+#: customizer-extra.php:250
+msgid "Custom Css"
+msgstr ""
+
+#: customizer-extra.php:265
+msgid "Typography Section"
+msgstr ""
+
+#: customizer-extra.php:266
+msgid "Here you can change Font Style of your site"
+msgstr ""
+
+#: customizer-extra.php:275
+msgid "Logo Font Style"
+msgstr ""
+
+#: customizer-extra.php:276
+msgid "Change logo font family and font style."
+msgstr ""
+
+#: customizer-extra.php:301
+msgid "Logo Tag line Style"
+msgstr ""
+
+#: customizer-extra.php:302
+msgid "Change logo tag ine font family and font style."
+msgstr ""
+
+#: customizer-extra.php:325
+msgid "primery menu Style"
+msgstr ""
+
+#: customizer-extra.php:347
+msgid "Slider Title Style"
+msgstr ""
+
+#: customizer-extra.php:348
+msgid "Change Slider Title font family and font style."
+msgstr ""
+
+#: customizer-extra.php:377
+msgid "Slider Subtitle Font Style"
+msgstr ""
+
+#: customizer-extra.php:378
+msgid "Change Sldier subtitle font family and font style."
+msgstr ""
+
+#: customizer-extra.php:405
+msgid "Site Font Style"
+msgstr ""
+
+#: customizer-extra.php:406
+msgid "Change whole site font family and font style."
+msgstr ""
+
+#: customizer-extra.php:427
+msgid "Home Page Reorder Sections"
+msgstr ""
+
+#: customizer-extra.php:435
+msgid "Here You can reorder your homepage section"
+msgstr ""
+
+#: customizer-extra.php:453 customizer.php:635
+msgid "Footer Options"
+msgstr ""
+
+#: customizer-extra.php:460
+msgid "Footer-1 Background Color"
+msgstr ""
+
+#: customizer-extra.php:477
+msgid "Footer-2 Background Color"
+msgstr ""
+
+#: customizer-extra.php:498
+msgid "Footer Widget Layout"
+msgstr ""
+
+#: customizer-extra.php:499
+msgid "Change footer widget area into 2, 3 or 4 column"
+msgstr ""
+
+#: customizer-extra.php:515
+msgid "Show/Hide Footer Widget Area"
+msgstr ""
+
+#: customizer.php:15 customizer.php:99
+msgid "Select Category"
+msgstr ""
+
+#: customizer.php:37 customizer.php:287
+msgid "Select Post"
+msgstr ""
+
+#: customizer.php:50
+msgid "Theme Options"
+msgstr ""
+
+#: customizer.php:56
+msgid "Slider Options"
+msgstr ""
+
+#: customizer.php:70
+msgid "Show Slider"
+msgstr ""
+
+#: customizer.php:92
+msgid "Auto Play Slider"
+msgstr ""
+
+#: customizer.php:108
+msgid "Service Options"
+msgstr ""
+
+#: customizer.php:133
+msgid "Service style"
+msgstr ""
+
+#: customizer.php:138
+msgid "Default"
+msgstr ""
+
+#: customizer.php:139
+msgid "Box Style"
+msgstr ""
+
+#: customizer.php:144
+msgid "Enable Home Service"
+msgstr ""
+
+#: customizer.php:161
+msgid "Portfolio Title"
+msgstr ""
+
+#: customizer.php:220
+msgid " One"
+msgstr ""
+
+#: customizer.php:220
+msgid " Two"
+msgstr ""
+
+#: customizer.php:220
+msgid " Three"
+msgstr ""
+
+#: customizer.php:222
+msgid "Service Icon"
+msgstr ""
+
+#: customizer.php:223
+msgid ""
+"<a href=\"http://fontawesome.bootstrapcheatsheets.com\" target=\"_blank"
+"\">FontAwesome Icons</a>"
+msgstr ""
+
+#: customizer.php:228
+msgid "Service Title"
+msgstr ""
+
+#: customizer.php:234
+msgid "Service Description"
+msgstr ""
+
+#: customizer.php:240
+msgid "Service Link"
+msgstr ""
+
+#: customizer.php:246
+msgid "Open link in new tab"
+msgstr ""
+
+#: customizer.php:255
+msgid "Portfolio Options"
+msgstr ""
+
+#: customizer.php:271
+msgid "Enable Home Portfolio"
+msgstr ""
+
+#: customizer.php:288
+msgid ""
+"Select the post in which you have put the shortcode to display portfolio."
+msgstr ""
+
+#: customizer.php:297
+msgid "Blog Options"
+msgstr ""
+
+#: customizer.php:312
+msgid "Enable Home Blog"
+msgstr ""
+
+#: customizer.php:329
+msgid "Home Blog Title"
+msgstr ""
+
+#: customizer.php:346
+msgid "Home Blog Description"
+msgstr ""
+
+#: customizer.php:354
+msgid "Callout Options"
+msgstr ""
+
+#: customizer.php:370
+msgid "Enable Callout Section"
+msgstr ""
+
+#: customizer.php:388
+msgid "Callout Title"
+msgstr ""
+
+#: customizer.php:406
+msgid "Callout Button Text"
+msgstr ""
+
+#: customizer.php:424
+msgid "Callout Button Link"
+msgstr ""
+
+#: customizer.php:432
+msgid "Contact Options"
+msgstr ""
+
+#: customizer.php:448
+msgid "Show Contact Info in Top bar"
+msgstr ""
+
+#: customizer.php:465 customizer.php:481
+msgid "Contact Email"
+msgstr ""
+
+#: customizer.php:489
+msgid "Social Options"
+msgstr ""
+
+#: customizer.php:505
+msgid "Enable Social Media Option in Home"
+msgstr ""
+
+#: customizer.php:523
+msgid "Enable Social Media in Footer"
+msgstr ""
+
+#: customizer.php:541
+msgid "Facebook Link"
+msgstr ""
+
+#: customizer.php:558
+msgid "Twitter Link"
+msgstr ""
+
+#: customizer.php:575
+msgid "Instagram Link"
+msgstr ""
+
+#: customizer.php:592
+msgid "LinkedIn Link"
+msgstr ""
+
+#: customizer.php:609
+msgid "Youtube Link"
+msgstr ""
+
+#: customizer.php:626
+msgid "Google+ Link"
+msgstr ""
+
+#: customizer.php:650
+msgid "Copyright Text"
+msgstr ""
+
+#: customizer.php:666
+msgid "Developed by Text"
+msgstr ""
+
+#: customizer.php:683
+msgid "Link Text"
+msgstr ""
+
+#: customizer.php:699
+msgid "Developed by Link"
+msgstr ""
+
+#: customizer.php:706 customizer.php:802 customizer.php:829
+msgid "Upgrade to Fortune Premium"
+msgstr ""
+
+#: customizer.php:717
+msgid "Fortune Premium"
+msgstr ""
+
+#: customizer.php:808
+msgid "Fortune Premium - Features"
+msgstr ""
+
+#: customizer.php:810
+msgid "Responsive Design"
+msgstr ""
+
+#: customizer.php:811
+msgid "Rich Shortcodes"
+msgstr ""
+
+#: customizer.php:812
+msgid "More than 15 Templates"
+msgstr ""
+
+#: customizer.php:813
+msgid "Custom Widgets"
+msgstr ""
+
+#: customizer.php:814
+msgid "Pricing Tables"
+msgstr ""
+
+#: customizer.php:815
+msgid "Redux Options Panel"
+msgstr ""
+
+#: customizer.php:816
+msgid "2 types of Service Section"
+msgstr ""
+
+#: customizer.php:817
+msgid "3 Different Types of Blog Templates"
+msgstr ""
+
+#: customizer.php:818
+msgid "4 Types of Portfolio Templates"
+msgstr ""
+
+#: customizer.php:819
+msgid "Unlimited Colors Scheme"
+msgstr ""
+
+#: customizer.php:820
+msgid "Patterns Background"
+msgstr ""
+
+#: customizer.php:821
+msgid "WPML Compatible"
+msgstr ""
+
+#: customizer.php:822
+msgid "Woo-commerce Compatible"
+msgstr ""
+
+#: customizer.php:823
+msgid "Portfolio layout with Isotope effect"
+msgstr ""
+
+#: customizer.php:824
+msgid "Translation Ready"
+msgstr ""
+
+#: customizer.php:834
+#, php-format
+msgid ""
+"If you Like our Products , Please Rate us 5 star on %sWordPress.org%s.  We'd "
+"really appreciate it! </br></br>  Thank You"
+msgstr ""
+
+#: default_options.php:14
+msgid "Our Services"
+msgstr ""
+
+#: default_options.php:15
+msgid "Responsive"
+msgstr ""
+
+#: default_options.php:17 default_options.php:23
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit ipsum lorem sit "
+"amet."
+msgstr ""
+
+#: default_options.php:21
+msgid "Retina Ready"
+msgstr ""
+
+#: default_options.php:27
+msgid "Multi Layout"
+msgstr ""
+
+#: default_options.php:29
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit ipsum lorem sit amet"
+msgstr ""
+
+#: default_options.php:43
+msgid "fortune Theme"
+msgstr ""
+
+#: default_options.php:44
+msgid "Developed By"
+msgstr ""
+
+#: default_options.php:45
+msgid "Webhunt Infotech"
+msgstr ""
+
+#: default_options.php:50
+msgid "Recent Posts"
+msgstr ""
+
+#: default_options.php:51
+msgid ""
+"There are many variations of passages of Lorem Ipsum available, but the "
+"majority have suffered alteration in some form, by injected humour of this "
+"randomised words which don't look even slightly believable"
+msgstr ""
+
+#: default_options.php:55
+msgid "Best Wordpress Resposnive Theme Ever!"
+msgstr ""
+
+#: default_options.php:56
+msgid "Download Now"
+msgstr ""
+
+#: footer.php:23
+msgid "Connect with us"
+msgstr ""
+
+#: functions.php:21
+msgid ""
+"Visit our site for more great Products.If you like this theme please rate us "
+"5 star"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:51
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:149 functions.php:156 home-service.php:22
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#: functions.php:171
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:173
+msgid "Sidebar widget area"
+msgstr ""
+
+#: functions.php:180
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:182
+msgid "Footer widget area"
+msgstr ""
+
+#: functions.php:195
+msgid "Home"
+msgstr "Startseite"
+
+#: functions.php:269
+msgid " Error 404 "
+msgstr ""
+
+#: functions.php:283
+msgid "Reply"
+msgstr ""
+
+#: functions.php:305
+msgid "says:"
+msgstr ""
+
+#: functions.php:306
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:314
+msgid "Your comment is awaitting for moderation."
+msgstr ""
+
+#: functions/customize/contact-widgets.php:15
+msgid "Fortune Footer Contact"
+msgstr ""
+
+#: functions/customize/contact-widgets.php:16
+msgid "Your contact details"
+msgstr ""
+
+#: functions/customize/contact-widgets.php:37
+msgid "25, Lorem Lis Street"
+msgstr ""
+
+#: functions/customize/contact-widgets.php:44
+msgid "987-654-321"
+msgstr ""
+
+#: functions/customize/contact-widgets.php:50
+msgid "mail@me.com"
+msgstr ""
+
+#: functions/customize/contact-widgets.php:54
+msgid "myemail@gmail.com"
+msgstr ""
+
+#: functions/customize/contact-widgets.php:72
+msgid "Contact Info"
+msgstr ""
+
+#: functions/customize/contact-widgets.php:78
+msgid "0764-989879"
+msgstr ""
+
+#: functions/customize/contact-widgets.php:84
+msgid "contact@me.com "
+msgstr ""
+
+#: functions/customize/contact-widgets.php:90
+msgid "http://www.example.com"
+msgstr ""
+
+#: functions/customize/contact-widgets.php:96
+msgid "NewYork"
+msgstr ""
+
+#: functions/customize/contact-widgets.php:101
+msgid "Title:"
+msgstr ""
+
+#: functions/customize/contact-widgets.php:107
+msgid "Contact phone number:"
+msgstr ""
+
+#: functions/customize/contact-widgets.php:114
+msgid "E-mail address:"
+msgstr ""
+
+#: functions/customize/contact-widgets.php:120
+msgid "Website :"
+msgstr ""
+
+#: functions/customize/contact-widgets.php:127
+msgid "Contact address:"
+msgstr ""
+
+#: header.php:35
+msgid "Call US:"
+msgstr "Rufen Sie uns an:"
+
+#: header.php:38
+msgid "Email:"
+msgstr ""
+
+#: home-blog.php:49
+msgid "Edit"
+msgstr ""
+
+#: home-portfolio.php:25
+msgid "Project #"
+msgstr ""
+
+#: home-portfolio.php:26
+msgid "Photography / Web Design"
+msgstr ""
+
+#: home-slider.php:30
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: home-social.php:8
+msgid "Facebook"
+msgstr ""
+
+#: home-social.php:13
+msgid "Twitter"
+msgstr ""
+
+#: home-social.php:18
+msgid "instagram"
+msgstr ""
+
+#: home-social.php:23
+msgid "linkedin"
+msgstr ""
+
+#: home-social.php:28
+msgid "youtube"
+msgstr ""
+
+#: home-social.php:33
+msgid "Google+"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:337
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:338
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+#: inc/class-tgm-plugin-activation.php:3116
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:405
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:406
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:407
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:409
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2228
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2231
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2248
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2251
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2254
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2272
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2278
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2284
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2287
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2290
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2448
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2456
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2468
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2492
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2507
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2508
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2509
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2513
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2514
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2681
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2687
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2690
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2722
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2724
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2760
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2762
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3115
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3456
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3458
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3459
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3463
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3464
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3465
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3466
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3469
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3471
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3472
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/include-kirki.php:41
+#, php-format
+msgid ""
+"The Kirki Toolkit plugin is installed but not activated. Please <strong><a "
+"href=\"%s\">activate it</a></strong> in order to take full advantage of the "
+"theme's options."
+msgstr ""
+
+#: inc/welcome-screen/sections/class.webhunt_filesystem.php:27
+msgid "Unable to modify required files. Please ensure that"
+msgstr ""
+
+#: inc/welcome-screen/sections/class.webhunt_filesystem.php:28
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: inc/welcome-screen/sections/getting-started.php:14
+msgid "Welcome to Fortune!"
+msgstr ""
+
+#: inc/welcome-screen/welcome-screen.php:103
+msgid "Get started with fortune"
+msgstr ""
+
+#: inc/welcome-screen/welcome-screen.php:126
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: inc/welcome-screen/welcome-screen.php:148
+msgid "View Theme Info"
+msgstr ""
+
+#: inc/welcome-screen/welcome-screen.php:273
+msgid "Dismiss"
+msgstr ""
+
+#: search.php:7
+#, php-format
+msgid "Search Results For: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: search.php:28
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: search.php:30
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Es gibt keine passenden Suchergebnisse. Bitte versuche es mit anderen "
+"Suchbegriffen."
+
+#: single.php:58
+msgid "Previous Post"
+msgstr "Vorheriger Beitrag"
+
+#: single.php:59
+msgid "Next"
+msgstr "Nächster Beitrag"

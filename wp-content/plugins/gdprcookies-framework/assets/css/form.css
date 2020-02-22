@@ -1,0 +1,35 @@
+.gdprc-app-form-msg-wrap { font-size:16px; line-height:28px }
+.gdprc-app-form-msg { padding:5px 0 }
+.gdprc-app-form-msg-err { color:#D54E21 }
+.gdprc-app-form-msg-suc6 { color:#74D83A }
+
+.gdprc-app-form { font-family:Arial, sans-serif; font-size:16px; line-height:28px  }
+
+.gdprc-app-form .btn { color: #ECECEC; height: 34px; padding: 6px 7px; background-color: #D54E21; border:1px solid #D54E21; border-radius: 2px; text-decoration: none; font-size: 16px !important; line-height: 20px !important; text-transform:uppercase }
+.gdprc-app-form .btn:hover { cursor:pointer }
+
+.gdprc-app-form .gdprc-form-field { padding:15px 0 }  
+  
+.gdprc-app-form input[type="text"] { width:100%; padding:0 5px; height:36px; border:1px solid #ECECEC;  background-color:#ECECEC }
+.gdprc-app-form input[type="submit"] { line-height:34px }
+
+::-webkit-input-placeholder {color:#B5B5B5}
+::-moz-placeholder {color:#B5B5B5}
+:-ms-input-placeholder {color:#B5B5B5 !important}
+:-moz-placeholder {color:#B5B5B5 !important}
+
+.gdprc-app-form label { }
+
+.gdprc-app-form input:active,
+.gdprc-app-form input:focus { background-color:#ECECEC; border-color:#D54E21 }
+
+.gdprc-app-form .btn:active,
+.gdprc-app-form .btn:hover,
+.gdprc-app-form .btn:focus { background-color:#D54E21; border-color:#D54E21; color: #3D9FC4 }
+
+/* errors */
+.gdprc-form-field.has-err {}
+.gdprc-form-field.has-err input[type="text"], 
+.gdprc-form-field.has-err input[type="email"], 
+.gdprc-form-field.has-err input[type="url"], 
+.gdprc-form-field.has-err textarea { border: 1px solid #D54E21 }
