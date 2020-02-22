@@ -31,3 +31,5 @@ wp-config.php
 xmlrpc.php
 index.php
 .idea
+deployment*
+vendor/

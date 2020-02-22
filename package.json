@@ -1,0 +1,34 @@
+{
+  "name": "tvojekostatus-eshop",
+  "version": "1.0.0",
+  "description": "Repository for Tvoj Eko Status eshop",
+  "dependencies": {},
+  "devDependencies": {
+    "concat": "^1.0.3",
+    "node-sass": "^4.13.1",
+    "sass": "^1.23.7",
+    "uglify-js": "^3.7.3",
+    "uglifycss": "0.0.29"
+  },
+  "scripts": {
+    "sass-watch": "node-sass --watch themes/Cactuplan/resources/sass -o themes/Cactuplan/assets/css",
+    "sass": "node-sass themes/Cactuplan/resources/sass -o themes/Cactuplan/assets/css",
+    "concat-css": "concat -o themes/Cactuplan/assets/css/styles.concatenated.css themes/Cactuplan/assets/css/original-theme.css themes/Cactuplan/assets/css/original-custom.css themes/Cactuplan/assets/css/resyst.css",
+    "concat-js": "concat -o themes/Cactuplan/assets/js/scripts.concatenated.js themes/Cactuplan/resources/js/theme.js themes/Cactuplan/resources/js/owl.carousel.js themes/Cactuplan/resources/js/totalstorage.js themes/Cactuplan/resources/js/lightbox.js themes/Cactuplan/resources/js/custom.js themes/Cactuplan/resources/js/resyst.js",
+    "concat": "npm run concat-css && npm run concat-js",
+    "minify-css": "uglifycss --ugly-comments themes/Cactuplan/assets/css/styles.concatenated.css > themes/Cactuplan/assets/css/styles.min.css",
+    "minify-js": "uglifyjs themes/Cactuplan/assets/js/scripts.concatenated.js -o themes/Cactuplan/assets/js/scripts.min.js",
+    "minify": "npm run minify-css && npm run minify-js",
+    "pre-deploy": "npm run sass && npm run concat && npm run minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resyst-cz/tvojekostatus-eshop.git"
+  },
+  "author": "ReSyst.cz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/resyst-cz/tvojekostatus-eshop/issues"
+  },
+  "homepage": "https://github.com/resyst-cz/tvojekostatus-eshop#readme"
+}

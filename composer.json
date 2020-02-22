@@ -1,0 +1,24 @@
+{
+  "name": "resyst-cz/tvojekostatus",
+  "description": "Company webiste in Wordpress",
+  "type": "project",
+  "license": [
+    "MIT"
+  ],
+  "require": {
+    "php": ">= 7.3"
+  },
+  "minimum-stability": "stable",
+  "require-dev": {
+    "dg/ftp-deployment": "^3.2"
+  },
+  "scripts": {
+    "deploy:staging": "php vendor/dg/ftp-deployment/deployment deployment-staging.ini",
+    "deploy:staging:test": "@deploy:staging -t",
+    "deploy:production": "php vendor/dg/ftp-deployment/deployment deployment-production.ini",
+    "deploy:production:test": "@deploy:production -t"
+  },
+  "config": {
+    "process-timeout": 0
+  }
+}
