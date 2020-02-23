@@ -32,4 +32,5 @@ xmlrpc.php
 index.php
 .idea
 deployment*
+.deployment
 vendor/
